@@ -1,2 +1,2 @@
-# hello-world
-Hello, I am new to Git. This is a test.
+# This is a second change
+This is a second change
