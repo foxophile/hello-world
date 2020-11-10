@@ -1,2 +1,2 @@
 # hello-world
-hello worl test
+Hello, I am new to Git. This is a test.
